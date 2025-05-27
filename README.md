@@ -16,4 +16,6 @@ file represents a specific dashboard project designed to extract insights from d
    * Time series trends
    * Product-level insights
    * Operational KPIs
-![BlinkitDashboard](Images/BlinkitSaleDashboardImage.png)
+
+[![Blinkit Dashboard](Images/BlinkitSaleDashboardImage.png)](Images/BlinkitSaleDashboardImage.png)
+
